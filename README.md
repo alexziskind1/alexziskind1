@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is pretty cool
+Through my passion for coding and exploration, I transform late nights into valuable insights. Welcome aboard! I’m Alex, with over two decades of coding expertise and now, content creation.
 
 <!--
 **alexziskind1/alexziskind1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
